@@ -1,7 +1,7 @@
 # IoT-SpeechToText-and-esp32Algorithm
 This repository contains the deliverables for week 2 task 1 for smart methods summer training.
 
-This project has two parts, a Speech to text web app and an algorithm for starting and running the ESP32 board(written here in this readme file).
+This project has two parts, a Speech to text web app and an algorithm for starting and running the ESP32 board (written here in this readme file).
 
 the first part is a web app that is a speech to text converter, using JavaScript and HTML.
 for running the web app:
